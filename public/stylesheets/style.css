@@ -1,0 +1,76 @@
+body{
+    background-color: #ffffff;
+    font-family: 'Darker Grotesque', sans-serif;
+} 
+
+
+/* ------ Index page ------ */
+
+#picture-header {
+    background-image: url('/images/bike-background.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 150px;
+    margin-bottom: 20px;
+}
+
+/*.card {
+  margin-bottom: 20px;
+}
+.basket-img{
+    width: 170px;
+}*/
+
+.navbar {
+    padding: 0px;
+    color:#ffffff;
+}
+
+.navbar:hover {
+    color: #ffffff;
+}
+
+.navbar:link {
+    text-decoration: none;
+}
+
+.logo {
+    margin-left: 10px;
+}
+
+/* ---- shop page ------ */
+
+.header-shop {
+    height: 40px;
+    padding-left: 20px;
+}
+
+.icon-basket {
+
+    margin-right: 5px;
+}
+
+.ariane {
+    margin-top: 25px;
+}
+
+.basket-img {
+    width: 100px;
+}
+
+.basket-item {
+    background-color: #F8F8F8;
+}
+
+.total-box {
+    font-weight: bold;
+} 
+
+.btn-checkout {
+    font-weight: bold;
+}
+
+#no-article {
+    font-size: italic;
+    color: crimson;
+}
